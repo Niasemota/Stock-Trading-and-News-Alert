@@ -11,8 +11,7 @@ news_endpt = "https://newsapi.org/v2/everything"
 #stock + news api keys
 stock_api_key = "IKU1J0JYREWJB8R4"
 news_api_key = "2c41af5c1e2849cb9fc952f9fe139ac1"
-twilio_sid = "AC45e5ef529b1250f3f098d127e84f7de9"
-twilio_auth_token = "be9a7e392fab671c518d7cc8c36a0cbf"
+#twilio sid + auth token
 
 # https://www.alphavantage.co/documentation/#daily
 # When stock price +/- 5% b/w yesterday and day before --> print("Get News")
